@@ -1,0 +1,25 @@
+{
+  "name": "fast_js_utils",
+  "version": "1.1.0",
+  "description": "Some common JS tool classes, such as date, type judgment, string processing, etc",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "node dist/test/index.js",
+    "build": "tsc"
+  },
+  "keywords": [
+    "js",
+    "utils"
+  ],
+  "author": "wyl",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "moment": "^2.24.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/base-64": "^0.1.3"
+  }
+}
