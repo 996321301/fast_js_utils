@@ -1,6 +1,5 @@
 
 /**
- * @author 王云龙
  * @description 控制台工具类，通过配置level确定打印的日志等级
  */
 class LogUtil{

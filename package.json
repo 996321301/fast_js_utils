@@ -1,6 +1,6 @@
 {
   "name": "yl_utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Some common JS tool classes, such as date, type judgment, string processing, etc",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

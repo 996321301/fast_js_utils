@@ -1,5 +1,4 @@
 /**
- * @author 王云龙
  * @description url相关的工具类
  */
 class UrlUtil{

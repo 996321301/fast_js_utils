@@ -1,5 +1,4 @@
 /**
- * @author 王云龙
  * @description 判断数据类型的工具类
  */
 
